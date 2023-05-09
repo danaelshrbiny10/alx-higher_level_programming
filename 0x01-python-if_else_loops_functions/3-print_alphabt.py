@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 for ch in range(97, 123):
     
-    if ch == 101 or ch == 113:    
-        continue
-
-    print(f"ASCII value: {ch}, Character: {chr(ch)}")
-    
+    if chr(ch) != 'q' and chr(ch) != 'e':
+        print("{}".format(chr(ch)), end="")
