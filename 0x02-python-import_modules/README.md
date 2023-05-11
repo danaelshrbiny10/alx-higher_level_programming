@@ -9,7 +9,6 @@
   *  [3-infinite_add.py](./3-infinite_add.py)
   *  [4-hidden_discovery.py](./4-hidden_discovery.py)
   *  [5-variable_load.py](./5-variable_load.py)
-  *  [variable_load_5.py](./variable_load_5.py)
   *  [100-my_calculator.py](./100-my_calculator.py)
   *  [101-easy_print.py](./101-easy_print.py)
   *  [102-magic_calculation.py](./102-magic_calculation.py)
